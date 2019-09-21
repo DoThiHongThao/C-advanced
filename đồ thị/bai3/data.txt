@@ -1,0 +1,14 @@
+[STATIONS]
+S1 = Ha Noi
+S2 = Hai Phong
+S3 = Hai Duong
+S4 = Bac Ninh
+S5 = Bac Can
+S6 = Quang Ninh
+S7 = Quang Binh
+S8 = Thuong Tin
+S9 = Ninh So 
+S10 = Thanh Tri (Van Phuc)
+[LINES]
+M1 = S1 S2 S4 S3 S7 
+M2 = S3 S5 S6 S8 S9 S10
